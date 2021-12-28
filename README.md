@@ -19,7 +19,7 @@
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Clara-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Clara-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="right" alt="Clara-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/925340711543537698/925353645564915712/Webp.net-gifmaker.gif">
+  <img align="right" alt="Clara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/925340711543537698/925389982657560586/Webp.net-gifmaker_1.gif">
   
 </div>
   
