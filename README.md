@@ -2,8 +2,10 @@
 
 
 - 🔭 I’m currently working with Front-End Development.
+- ✏️ UX/UI Designer
 - 🌱 I’m currently learning React
-- 😄 Pronouns: She/Hers
+- 💬 Ask me about JavaScript, HTML, CSS, SQL
+- ✈️ Fun fact: World traveller and languages/cultures lover
 
 <div align="center">
   <a href="https://github.com/Clara-Pacheco">
