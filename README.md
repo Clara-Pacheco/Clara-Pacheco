@@ -39,5 +39,6 @@
  
   ![Snake animation](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/output/github-contribution-grid-snake.svg)
  
+  ![Female programmer waving gif animation](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/d4tvukbt5mra37cvwklk.gif)
 </div>
 
