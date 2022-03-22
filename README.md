@@ -1,5 +1,8 @@
 ### Hi 👋 I am Clara ![cat gif](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif)
 
+### **Hi 👋 I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="50">**
+
+***
 
 - 🔭 I’m currently working with Front-End Development.
 - ✏️ UX/UI Designer
