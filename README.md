@@ -1,4 +1,4 @@
-<img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/1705787-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" width="100%">
+<img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/1705787-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" width="1420px" height="286px">
 
 
 ### **Hi 👋 I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="50">**
