@@ -1,7 +1,7 @@
 <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/2%20-%20Wallpaper%20SMTC%20-%202560x1080.jpg" width="100%">
 
 
-### **Hi ![hi gif](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif) I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="30px">**
+### **Hi <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif" width="30px"> I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="30px">**
 
 * * *
 
