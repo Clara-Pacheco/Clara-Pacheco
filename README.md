@@ -1,4 +1,4 @@
-### Hi there 👋 I am Clara Pacheco
+### Hi 👋 I am Clara ![cat gif](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif)
 
 
 - 🔭 I’m currently working with Front-End Development.
