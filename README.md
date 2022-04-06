@@ -1,4 +1,4 @@
-<img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/2%20-%20Wallpaper%20SMTC%20-%202560x1080.jpg" width="100%">
+<img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/2%20-%20Wallpaper%20SMTC%20-%202560x1080.jpg" width="100%" height="50%>
 
 
 ### **Hi <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif" width="30px"> I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="30px">**
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  
+  ## 🐍 Snake commits                                                                                                                             
   ![Snake animation](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/output/github-contribution-grid-snake.svg)
  
   ![Female programmer waving gif animation](https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/d4tvukbt5mra37cvwklk.gif)
