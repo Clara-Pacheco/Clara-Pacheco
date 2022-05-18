@@ -41,6 +41,7 @@
   <img align="center" alt="Clara-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  <img align="center" alt="Clara-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
  <img align="center" alt="Clara-Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+ <br>
  <img align="center" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="Clara-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
  <img align="center" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
