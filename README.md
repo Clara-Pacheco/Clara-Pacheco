@@ -19,11 +19,14 @@
 
 - ✈️ Fun fact: World traveller and languages/cultures lover
 
-<div align="center">
-  <a href="https://github.com/Clara-Pacheco">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Clara-Pacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Clara-Pacheco&show_icons=true&theme=vision-friendly-dark" alt="Clara-Pacheco's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&theme=vision-friendly-dark" alt="Clara-Pacheco's most languages"/>
+</p>
+
+<br><br>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Clara-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Clara-Bootstraap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
