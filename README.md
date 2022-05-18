@@ -26,7 +26,10 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&theme=vision-friendly-dark" alt="Clara-Pacheco's most languages"/>
 </p>
 
-<br><br>
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Clara-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Clara-Bootstraap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
@@ -35,7 +38,12 @@
   <img align="center" alt="Clara-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clara-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Clara-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Clara-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Clara-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <img align="center" alt="Clara-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+ <img align="center" alt="Clara-Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+ <img align="center" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="Clara-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+ <img align="center" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="right" alt="Clara-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif?cid=ecf05e473e4tk9c6vk58tnkowj3rqawg2mfvi5dkklvv90zh&rid=giphy.gif&ct=g" width="230px" height="150px">
   
 </div>
