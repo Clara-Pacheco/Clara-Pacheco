@@ -44,8 +44,7 @@
  <br><br>
  <img align="left" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="left" alt="Clara-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
- <img align="left" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">  
- <br>
+ <img align="left" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> 
   <img align="right" alt="Clara-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif?cid=ecf05e473e4tk9c6vk58tnkowj3rqawg2mfvi5dkklvv90zh&rid=giphy.gif&ct=g" width="230px" height="150px">
   
 </div>
