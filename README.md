@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="100" frameBorder="0">
+<img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
 </div>
 
-### **Hi <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif" width="30px"> I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="30px">**
+### **Hi <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif" width="2px"> I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" width="3px">**
 
 * * *
 
