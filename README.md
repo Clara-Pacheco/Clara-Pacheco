@@ -68,7 +68,7 @@
  <br>
 
  <h2> 💬 Find me</h2>
-  <div align="center">
+  <div align="left">
  <p align="center">
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="20%"> 
   <a href="mailto:clarapachecodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="15%">
