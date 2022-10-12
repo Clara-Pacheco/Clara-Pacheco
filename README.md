@@ -72,8 +72,8 @@
  <p align="center">
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="20%"> 
   <a href="mailto:clarapachecodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="15%">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="20%"></p>
- <p align="center"> <a href="https://www.frontendmentor.io/profile/Clara-Pacheco"><img src="https://img.shields.io/badge/-FrontendMentor-%230077B5?style=for-the-badge&logo=FrontendMentor&logoColor=white" target="_blank" width="30%"></a></p>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="20%">
+<a href="https://www.frontendmentor.io/profile/Clara-Pacheco"><img src="https://img.shields.io/badge/-FrontendMentor-%230077B5?style=for-the-badge&logo=FrontendMentor&logoColor=white" target="_blank" width="30%"></a></p>
    
   </div>
    
