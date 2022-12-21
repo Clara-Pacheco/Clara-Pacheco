@@ -34,10 +34,10 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Clara-Pacheco&show_icons=true&theme=vision-friendly-dark" alt="Clara-Pacheco's stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Clara-Pacheco&show_icons=true&theme=vision-friendly-dark" alt="Clara-Pacheco's stats"/>
 
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&theme=vision-friendly-dark" alt="Clara-Pacheco's most languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&theme=vision-friendly-dark" alt="Clara-Pacheco's most languages"/>
 </p>
 
 
