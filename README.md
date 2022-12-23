@@ -41,7 +41,7 @@
 </p>
 
 <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
+ <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
 </p>
 
 
