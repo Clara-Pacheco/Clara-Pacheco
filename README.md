@@ -35,8 +35,13 @@ const aboutMe = {
     'Travelling'  
   ],
   activity: function makeTheWebABetterPlace(){
-   ...
-   return problemsSolutions
+    let discover = 'solutions'
+    let think = 'problems'
+    let drinkCoffee = 'lots of coffee'
+    let code = 'passion'
+    let problemsSolutions = `Code with ${code}, drink ${drinkCoffee}
+    and discover ${discover} for life ${think}, making the web a better place.`
+    return problemsSolutions
   }
 };
 
@@ -50,7 +55,7 @@ function contactMe() {
 }
 
 ```
-<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="200" height="200" alt="" style="max-width: 100%;">
+<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="250" height="250">
 
 <!--  portfolio: 'https://devalbertomoiseis.netlify.app/',
  curriculo: 'https://docs.google.com/document/d/1c54ZkvNfrC6e3Z9ANkGpwmQ31aFRqHONzkNBs8-ebQQ/edit?usp=sharing',
