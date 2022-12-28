@@ -57,7 +57,7 @@ function contactMe() {
 <br>
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
+ <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
 Clara-Pacheco" />
 </p>
 
@@ -103,6 +103,17 @@ Clara-Pacheco" />
  <img align="left" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
  <img align="left" alt="Clara-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
  <img align="left" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="left" alt="Clara-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="left" alt="Clara-Xd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="left" alt="Clara-AdobePremiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="left" alt="Clara-AdobePhotoshop" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+ <br>
+ <br>
+<img  align="left" alt="Clara-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+                            
+                    
+        
+          
  <br>
  <img align="right" alt="Clara-pic" height="150" style="border-radius:50px;" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/girl_programming.gif" width="200px" height="150px">
   
