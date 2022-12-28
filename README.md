@@ -110,28 +110,16 @@ Clara-Pacheco" />
  <br>
  <br>
  
- <div align = "center">
  <h2> 💬 Find me</h2>
  <br>
  
 
-<!-- <a href="#" target="_blank"><img height="80"src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-  
-<a href="https://www.linkedin.com/in/maria-clara-pacheco/" target="_blank"><img height="80" src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/in.gif" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-  
-<a href="#" target="_blank"><img height="80"src="https://github.com/LeandroDukievicz/LeandroDukievicz/blob/main/gifs/mail.gif"  
-target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp; -->
-  
-<!--   
-<a href="https://www.frontendmentor.io/profile/Clara-Pacheco" target="_blank"><img height="80"src="https://cdn.worldvectorlogo.com/logos/frontendmentor-logo.svg" target="_blank"></a>&ensp;&ensp;&ensp;&ensp;&ensp; -->
-   
-</div>
-
- <p align="left"> <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="15%">
- <a href="mailto:clarapachecodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="12%">
- <a href="https://www.linkedin.com/in/maria-clara-pacheco/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="15%"></a>
-<p align="left"><a href="https://www.frontendmentor.io/profile/Clara-Pacheco"><img src="https://img.shields.io/badge/-FrontendMentor-%230077B5?style=for-the-badge&logo=FrontendMentor&logoColor=white" target="_blank" width="20%"></a></p></p>
-   
+ <div align = "center">
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/discord.gif" target="_blank" width="10%">
+ <a href="mailto:clarapacheco27@gmail.com" target="_blank"><img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/mail.gif" target="_blank" width="10%">
+ <a href="https://www.linkedin.com/in/maria-clara-pacheco/"><img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/linkedin.gif" target="_blank" width="10%"></a>
+<a href="https://www.frontendmentor.io/profile/Clara-Pacheco"><img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/frontendmentor.gif" target="_blank" width="10%"></a>
+ </div>
 
    
    <br>
