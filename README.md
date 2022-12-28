@@ -62,10 +62,6 @@ function contactMe() {
  -->
 <br>
 
-<br>
-<br>
-<br>
-
 <p align="left">
  <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
 Clara-Pacheco" />
@@ -74,6 +70,7 @@ Clara-Pacheco" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clara-Pacheco&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -116,7 +113,7 @@ Clara-Pacheco" />
 <img align="left" alt="Clara-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-Xd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-AdobePremiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
-<img align="left" alt="Clara-AdobePhotoshop" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Clara-AdobePhotoshop" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
  <br>
  <br>
 <img  align="left" alt="Clara-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
