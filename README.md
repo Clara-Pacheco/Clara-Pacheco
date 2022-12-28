@@ -56,14 +56,16 @@ function contactMe() {
 
 ```
 
-<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="200" height="200">
+<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="250" height="250">
 
 <!--  portfolio: 'https://devalbertomoiseis.netlify.app/',
  curriculo: 'https://docs.google.com/document/d/1c54ZkvNfrC6e3Z9ANkGpwmQ31aFRqHONzkNBs8-ebQQ/edit?usp=sharing',
  -->
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Clara-Pacheco&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Clara-Pacheco&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
 
 <p align="left">
  <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
