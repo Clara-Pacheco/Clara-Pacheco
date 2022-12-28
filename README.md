@@ -2,6 +2,9 @@
 <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
 </div>
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1708602&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Clara+Pacheco;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Web+Animation+learning+enthusiast+;Rocketseat+community+member)](https://git.io/typing-svg)
+
 ### **Hi <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/hi.gif" height="50px"> I'm Clara! <img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/cat-gif.gif" height="50px">**
 
 * * *
