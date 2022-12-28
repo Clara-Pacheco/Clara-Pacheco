@@ -31,8 +31,13 @@ const aboutMe = {
     'Reading',
     'Movies',
     'Games',
-    'Travelling'
+    'Swimming',
+    'Travelling'  
   ],
+  activity: function makeTheWebABetterPlace(){
+   ...
+   return problemsSolutions
+  }
 };
 
 function contactMe() {
