@@ -55,7 +55,7 @@ function contactMe() {
 }
 
 ```
-<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="250" height="250">
+<img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="200" height="200">
 
 <!--  portfolio: 'https://devalbertomoiseis.netlify.app/',
  curriculo: 'https://docs.google.com/document/d/1c54ZkvNfrC6e3Z9ANkGpwmQ31aFRqHONzkNBs8-ebQQ/edit?usp=sharing',
@@ -113,9 +113,10 @@ Clara-Pacheco" />
 <img align="left" alt="Clara-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-Xd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-AdobePremiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
-<img align="left" alt="Clara-AdobePhotoshop" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img align="left" alt="Clara-AdobePhotoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
  <br>
- <br>
+<br>
+
 <img  align="left" alt="Clara-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
                             
                     
