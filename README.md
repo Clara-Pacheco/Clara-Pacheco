@@ -63,6 +63,9 @@ function contactMe() {
  -->
 <br>
 
+## 🏆 GitHub Profile Trophy
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clara-Pacheco&theme=discord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
