@@ -55,10 +55,6 @@ function contactMe() {
 }
 
 ```
-<p align="left">
- <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
-Clara-Pacheco" />
-</p>
 
 <img align="right" src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/js_hero.gif" width="200" height="200">
 
@@ -68,6 +64,11 @@ Clara-Pacheco" />
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clara-Pacheco&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+ <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
+Clara-Pacheco" />
+</p>
 
 <br>
 
