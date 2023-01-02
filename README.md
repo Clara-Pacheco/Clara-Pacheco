@@ -100,10 +100,10 @@ Clara-Pacheco" />
 </p>
 
 <p>
- <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
+ <img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
 </p>
 
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Clara-Pacheco)](https://git.io/streak-stats) -->
 <br>
 
 ## 🛠 &nbsp;Tech Stack
