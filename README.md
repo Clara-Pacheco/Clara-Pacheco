@@ -103,7 +103,6 @@ Clara-Pacheco" />
  <img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
 </p>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Clara-Pacheco)](https://git.io/streak-stats) -->
 <br>
 
 ## 🛠 &nbsp;Tech Stack
