@@ -77,6 +77,9 @@ function contactMe() {
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15 -->
 
+<br>
+<br>
+
 <p align="left">
  <img width="20%" src="https://komarev.com/ghpvc/?username=Clara-Pacheco&label=Profile%20views&color=0e75b6&style=flat" alt="
 Clara-Pacheco" />
