@@ -146,7 +146,6 @@ Clara-Pacheco" />
   <div> 
  <br>
  <br>
- <br>
  
  <h2> 💬 Find me</h2>
  <br>
