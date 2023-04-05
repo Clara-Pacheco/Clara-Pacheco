@@ -114,6 +114,7 @@ Clara-Pacheco" />
   <img align="center" alt="Clara-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-Bootstraap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="Clara-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
