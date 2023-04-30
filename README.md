@@ -112,28 +112,53 @@ Clara-Pacheco" />
 
   <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Clara-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Clara-Bootstraap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+   <img align="center" alt="Clara-Regex" height="50" width="60" src="https://skillicons.dev/icons?i=regex">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="center" alt="Clara-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Clara-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Clara-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img align="center" alt="Clara-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <img align="center" alt="Clara-Bootstraap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="Clara-Styled-Components" height="50" width="60" src="https://skillicons.dev/icons?i=styledcomponents">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="Clara-Tailwind" height="50" width="60" src="https://skillicons.dev/icons?i=tailwind">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
  <br>
  <br>
- <img align="center" alt="Clara-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
- <img align="center" alt="Clara-Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
- <img align="left" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <br>
+  <img align="left" alt="Clara-SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+   <img align="left" alt="Clara-sqlite" height="50" width="60" src="https://skillicons.dev/icons?i=sqlite">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-MySQL" height="50" width="60" src="https://skillicons.dev/icons?i=mysql">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Clara-Markdown" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Clara-VisualStudioCode" height="50" width="60" src="https://skillicons.dev/icons?i=vscode">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img  align="left" alt="Clara-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+   <img align="left" alt="Clara-NodeJS" height="50" width="60" src="https://skillicons.dev/icons?i=nodejs">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Express" height="50" width="60" src="https://skillicons.dev/icons?i=express">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
  <img align="left" alt="Clara-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
  <img align="left" alt="Clara-Canvas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
-<img  align="left" alt="Clara-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
-<br>
-<br>
  <img align="left" alt="Clara-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-Xd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-AdobePremiere" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img align="left" alt="Clara-AdobePhotoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />&nbsp; &nbsp; &nbsp; &nbsp;
+  <br>
+  <br>
+  <br>
+  <br>
+  <img align="left" alt="Clara-SVG" height="50" width="60" src="https://skillicons.dev/icons?i=svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Vercel" height="50" width="60" src="https://skillicons.dev/icons?i=vercel">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Netlify" height="50" width="60" src="https://skillicons.dev/icons?i=netlify">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="left" alt="Clara-Vite" height="50" width="60" src="https://skillicons.dev/icons?i=vite">&nbsp; &nbsp; &nbsp; &nbsp;
+ 
 
 
                             
