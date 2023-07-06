@@ -102,6 +102,10 @@ Clara-Pacheco" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara-Pacheco&layout=compact&theme=vision-friendly-dark" alt="Clara-Pacheco's most languages"/>
 </p>
 
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clara)](https://github.com/Clara-Pacheco/github-readme-stats)
+
+<a href="https://wakatime.com/@1ecc494e-5d1a-4302-b6d3-76cabea80412"><img src="https://wakatime.com/badge/user/1ecc494e-5d1a-4302-b6d3-76cabea80412.svg" alt="Total time coded since May 26 2023" /></a> -->
+
 <p>
  <img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Clara-Pacheco" alt="Clara Pacheco" />
 </p>
